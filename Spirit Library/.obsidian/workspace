@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "cdbdaa3a1217e08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d10643f696dd76a4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WiSe2020-21/VR Oral Exam Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cb11116fc42d1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "6944daa027d604ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feba10a1346c8693",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7f82929909e171a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c6574cbe5e380c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c5de704b3eeec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a747c5f06ece3fed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WiSe2020-21/VR Oral Exam Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "WiSe2020-21/VR Oral Exam Notes.md",
+    "WiSe2020-21/HCI/HCI Exam Notes.md",
+    "WiSe2020-21/HCI/3 State Model.png",
+    "WiSe2020-21/Hierarchical Task Analysis.png",
+    "WiSe2020-21/HCI Exam Notes.md",
+    "Pasted image 20210213153528.png",
+    "Pasted image 20210213153333.png",
+    "WiSe2020-21/Untitled.md"
+  ]
+}
