@@ -104,7 +104,7 @@ ___
 
 - 5 components of usability as described by Jakon Nielsen
     - Learnability
-		- How easy it is for users to accomplish a basic task the first time they encounter the design → Visibility of system status, match with real world, consistency
+		- How easy it is for users to accomplish a basic task the first time they encounter the design → Visibility of system status, match with real world, consistency (predictability, synthesizability, familiarity, consistency)
     - Efficiency
 		- How quickly can users perform tasks → user control, freedom/flexibility
     - Memorability
@@ -126,10 +126,43 @@ ___
 	- Reduce short-term memory load (recognition over recall)
 - What are Dix's Usability Principles?
 	- Learnability and Flexibility
+- What is the difference between internal and external consistency?
+	- Internal consistency is the consistency of colors, language and other design features between different parts of an interface, whereas external consistency is the consistency of design with other applications on the same platform or with standards out in the world (e.g., an 'x' button typicallly symbolizes closing)
 ### UX - Intro and Design of Interactions
+- What is Chris Crawford's Conversation Metaphor for interactions?
+	- Interactions, just like conversations, require 2 actors to listen to each other, think, and respond. The quality of interaction relies on the quality of all sub-activities
+- What can lead to a good interaction?
+	- a balance of contributions the user must have
+	- engage and motivate the user with the activity, ask: what can the user do?
+- What is the shared control mechnaism/paradigm in artificial intelligence?
+	- a system that uses both user control and an automation component. the human and the robot/AI act as peers and can act independently from each other
 
 ### UX - Joy of Use and Use qualities
-
+- What is interaction design?
+	- "the art of effectively creating valuable, meaningful, interesting, compelling & empowering information, interactions & experiences for other people"
+- What is the Hygiene model and the Motivation model?
+	- People are fine with something if it is hygienic, but when something isn't hygienic, then people are dissatisfied. Satisfiers provide motivation.
+	- Classical HCI focused on hygiene factors: fulfilling expectations, having no errors (efficient, effective), and having a reduction of stress - avoiding negative emotions = hygiene
+- Explain Hassenzahl's model of user experience
+	- He models user experience by splitting its qualities by whether it is hedonic or pragmatic (more emotional or practical)
+		- Pragmatic
+			- Utility (necessary functions for a given task)
+			- Usability (easy and efficient)
+		- Hedonic
+			- Stimulation (ability of a product to surprise, foster curiosity, and provide opportunities for the perfection of knowledge and skills)
+			- Beauty/Attractiveness (ability of product to evoke a feeling of 'beauty')
+			- Communicative identity (ability to communicate self-serving symbols to relevant others)
+- Example of use qualities in UX
+	- Playability
+	- Seduction
+	- Efficiency + Transparency
+	- Relevance, utility
+	- Pliability, responsiveness
+	- Immersion
+	- Identity
+	- Empowerment, Flexibility
+	- Elegance
+	- Surprise
 ## Cognition and Design
 ___
 ### Cognition and its role for Design
@@ -147,7 +180,6 @@ ___
 ### Why Do Prototyping?
 - What is a prototype?
 	- A limited representation of a design which allows people to interact with it and to explore and check its suitability
-
 - Reasons to prototype
     - fast and inexpensive - allows iteration and sketching of multiple ideas
     - rapid prototyping enables design team to evaluate more design options in detail
@@ -173,11 +205,8 @@ ___
 	- Focused on user needs
 	- can be presented in text, comic strip, video, acting
 	- **Note:** dark scenarios are scenarios focused on the negative and problematic aspects of a situation (that could then be sovled by a product)
-
 - What is a situation scenario?
-
      - A scenario that concentrates on a specific situation and focuses on goals and overall actions of the user, not on specific details like button presses. Illustrates the use of a product's function in a specific context as well as the requirements and impact of the product
-
 - Pros and cons of scenarios
     - life and time are linear
     - easy to understand
@@ -353,12 +382,15 @@ Important to have participants understand that they are not being evaluated, but
     - 3 people per iteration
     - Guerrilla - ask people waiting for their coffee in cafes, co workers, etc. to test product that doesn't take too much time
 
-### Examples: Living, Incident Diary, A-B Testing
+### Examples: Living Labs, Incident Diary, A-B Testing
+- What is a living lab?
+	- A living lab is a testing method that simulates a real setting (home, dance floor, classroom) with fully functional prototypes installed
+- What is an incident diary?
+	- A testing method for deployed software where the users write a page in a diary or an audio note for each interaction problem they have
+- What is A-B testing?
+	- A testing method for deployed softwhere where there's 2 versions running, and the users don't know which version they're seeing. There's an ethical issue that users don't know that they're being experimented on.
 
-### A formative usability study of museum installations (study, design, results, outcome)
-
-### Field Studies (intro, examples)
-
+### Field Studies 
 - What is a field study?
     - A field study is a way to test something in which it is conducted in a natural and real environment. The environment the product would be tested in would be the same one in which it would be actually used. They are harder to control and are a good way to see how technological innovations may or may not be useful
 
@@ -370,9 +402,9 @@ Important to have participants understand that they are not being evaluated, but
 ___
 ### Intro; descriptive methods: HTA
 - What is a descriptive model?
-	- a model that provides conceptual framework that simplifies a system, allows statemsnts about likely characteristics
+	- a model that provides conceptual framework that simplifies a system, allows statemsnts about likely characteristics. gives a basis for understanding, reflecting and reasoning about facts and interactions
 - What is a predictive model?
-	- a model that makes educated guesses about the future based on model of interaction (based on empiritcal knowledge), often predict performance
+	- a model that makes **educated guesses about the future** based on model of interaction (based on empiritcal knowledge), often predict performance
 - What is hierarchical task analysis (HTA)?
 	- a way to model user tasks by identifying main tasks for achieving a user goal, and breaking those tasks into sub tasks. usually focused on physical and observable actions
 	- ![[Hierarchical Task Analysis.png]]
@@ -402,7 +434,7 @@ ___
 	- Application: can use when designing interactions for systems with bimanual interactions like VR
 ### Fitts' Law
 - What is Fitts' Law?
-	- It's a robust predictive model of human psychomotor (brain and muscles involved) behavior that predicts movement time for rapid, aimed pointing tasks. It describes movement time in terms of distance & size of target and device.
+	- It's a robust predictive model of human psychomotor (brain and muscles involved) behavior that predicts movement time for rapid, aimed pointing tasks. It describes movement time in terms of distance & size of target and device. Purely ergonomic, doesn't take into account cognitive aspects of user behavior.
 	- ID (index of difficulty) predicts achievable speed of selecting target
 	- The time to acquire a target is a function of the **distance** to and **size** of the target and depends on the particular **pointing system** 
 	- $MT = a + b\log_{2} \left ( 1 + \frac{D}{W}\right )$
@@ -421,13 +453,42 @@ ___
 - What is the most optimal menu type according to Fitts' Law?
 	- Pie menus because similarly to pop up menus, it pops up where the mouse is, and all of the options are at an equal distance from the mouse. It also helps build muscle memorey. BUT labeling is difficult and uses more screen space
 - What is the Steering Law?
+	- A law that models movement time of a pointer through a 2D tunnel to aquire a target
+	- $MT = a + b \frac{D}{W}$
+	- ID is linear, not logarithmic, steering is more difficult than pointing!
+- What's an example of Steering Law in Practice?
+	- Nested menus like in Spotify. It's very easy to accidentally go out of the tunnel which would make the menu disappear
+- What's the idea of a crossing menu?
+	- You cross an item to select it, which allows you to easily select multiple things without having to slow down. Based on steering and crossing, is an optimization on Fitts' Law, and is ideal for pen and finger interactions
 ### Keystroke Level Model (KLM)
-
+> If asked to calculate a KLM time, don't forget reaction times for pages to load, hand from keyboard to mouse
 - What is the KLM and how does it work?
-	- 
-
+	- A predictive model that predicts how much time it takes to execute a task. It's essentially a simplified version of GOMS
+	- The execution of a task is decomposed into primitive operators and each operator is assigned a duration of how long it would take a user to perform it
+		- Physical motor operators: pressing a button, pointing, drawing a line, etc.
+		- Mental operator: preparing for a physical action
+		- System response operator: user waits for the system to do something
+	- ![[KLM.png]]
+- What if you want to use KLM on a different system than the traditional mouse and keyboard?
+	- Change and maybe add operators to fit the interactions possible by the system's environment (e.g., G for gesture: time needed for system that uses gestures such as rotating, shaking, drawing numbers in the air)
+- What is KLM good for?
+	- Helps us identify where common tasks take too long to consist of too many statements, where to simplify. It can also show advantages of new interaction techniques.
+- What are advantages of KLM?
+	- Quick and easy to apply and prepare
+	- Quick to analyze
+	- Precise to interpret
+	- Easy to convey to management
+- What are disadvantages of KLM?
+	- Only operators on keystroke-level, so it focuses on very low level tasks
+	- No multiple goals
+	- Strictly sequential
 ### Recap of Traditional Modeling
-
+- What are some downsides to predictive models?
+	- Only work for well defined (limited, simple) routine cognitive tasks (out of context)
+	- Assuems expert users that know the steps
+	- Does not consider slips or erros, fatigue, social surroundings
+	- Need to adapt for special user groups with different performance/cognitive behavior
+	- Need to empirically determine variables for new interaction methods and styles
 ## Interface Types and Technologies
 ___
 ### Intro. Start WIMP 'types'
