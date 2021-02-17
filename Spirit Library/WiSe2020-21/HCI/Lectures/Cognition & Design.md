@@ -1,0 +1,147 @@
+## Cognition and Design
+___
+### Cognition and its role for Design
+- Name some cognitive processes
+	- Attention
+	- Perception and recognition
+	- Memory
+	- Learning
+	- Reading, speaking and listening
+	- Problem-solving, planning, reasoning and decision making
+- What is attention, and what are its design implications?
+	- Attention is selecting things to concentrate on at a point in time from the mass of stimuli around us
+	- We should limit the amount of information in UIs so that they're not cluttered with too much information
+- What is perception and its design implications?
+	- Perception is related to how information is acquired from the world and transformed into experiences
+	- We should design representations that are readily and easily perceivable
+		- text: legible and distinguishable from the background
+		- icons: easily distinguishable and understandable meaning
+		- sounds: audible and distinguishable
+		- tactile: allow users to recognize and distinguish different meanings
+- What are the three types of memory function? How does memory work?
+	- Sensory memories: continuously overwrite, short term buffer for each modality
+	- Short-term memory/working memory: 7 +/- 2 chunks, rapid access, rapid decay
+	- Long-term memory: slow access, slow decay, selective, interferences
+	- Information is encoded, and then processed
+- What is easier: recognition or recall?
+	- Recognition! For example, it is much easier for someone to use a GUI than a command line interface (e.g., GitHub Desktop v.s. remembering git commands for a command-line input)
+- Why does the 7 +/- 2 idea not work for UIs? For example, having 7 buttons in a menu or displaying 7 icons on a tool bar
+	- Because what's presented on an interface isn't about recall, rather recognition - users can scan through the UI without having to use their memory
+- What are some design implications regarding memory?
+	- don't overload users' memories with complicated procedures
+	- design UIs that promote recognition rather than recall
+	- encode information in various ways (categories, color, flagging, time, etc.)
+	- more complex interactions can be designed to optimize for both types of memory processes (e.g., search box - recall, history list - recognition)
+- How do people prefer to learn? What are design implications for learning?
+	- People prefer to learn by doing rather than reading instructions
+	- Design interfaces that encourage exploration, constrain and guide learners
+	- Dynamically linking concepts and representations can facilitate the learning of complex material
+- What are design applications of reading, speaking and listening?
+	- The ease with which people can read, listen or speak differs (some people prefer listening to reading, reading can be quicker than the others, listening requires less cognitive effort, dyslexics have trouble with written text...)
+	- Provide several input modalities (e.g, keyboard, voice input, natural-language systems)
+	- Provide several output modalities (e.g., normal text, text-to-speech systems)
+- Problem solving, planning, reasoning, and decision making and its design implications
+	- Requires the most cognition to be able to reflect (on what to do, the options, and the consequences), use conscious processes, discuss with others and use artifacts (e.g., map, books, pen and paper), and may involve working through different scenarios to decide on the best option
+	- Provide additional info/functions for users who wish to understand more about how to carry out an activity more effectively, use simple computational aids to support rapid decision-making and planning for users on the move
+- What are the two types of errors?
+	- Slips and mistakes. Slips are when the users have the right intention but fail to do it right. Mistakes are when users misunderstand something and have the wrong intention 
+### Mental and Conceptual Models
+> The conceptual model is **how we want the user to understand** the system, and the mental model is **how the user comes to understand** the system and we want them to match!
+- What is a mental model?
+	- A user's understanding of a system through their learning and using of it
+- What is a conceptual model?
+	- a high-level description of how a system is organized and operates
+	- components of a conceptual model
+		- metaphors and analogies: help understand what a product is for and how to use it for an activity
+		- concepts that people are exposed to through the product: tas-domain objects, their attributes, and operations (e.g., saving, revisiting, organizing)
+		- relationship and mappings between these concepts
+- Information processing model of cognition
+	- a user interacting with a computer is like information processing
+	- 
+- Why do some models of cognition not adequately represent how humans interact with computers?
+	- they don't account for the environment/context in which the user is interacting with the computer; there can be external factors
+	- ![[Information Processing Model of Cognition.png]]
+
+### Alternative models of Cognition: Distributed Cognition
+- What is the distributed cognition model of cognition?
+	- It's concerned with cognitive phenomena across individuals, artifacts and internal and external representations. Involves the environment and context where the information can be propagated across different representations (paper, from other people, from computer, etc.)
+- What's the difference between the traditional model and the distributed model of cognition?
+	- The traditional model views an individual as the sole actor in cognition where input is taken and then output is given wheres the distributed model represents the multiple processes that may happen between several people and computers as well as the various representations of information that can be present
+- What is involved with distributed cognition?
+	- distributed problem solving
+	- verbal, non-verbal behaviors
+	- sharing and access of knowledge
+	- coordination mechanisms (rules, procedures...)
+	- external artifacts (calendars, post its, lists, heaps of stuff...) used to trigger yourself
+	- annotation and computational offloading
+- 3 ways cognition is distributed
+	- socially
+	- internally / externally
+	- through time
+
+### Interface Metaphors
+> Using metaphors exploit user's familiar knowledge to understand the unfamiliar
+- What metaphors are used in most online shopping websites?
+	- shopping cart, checkout, basket, 1-click, gift wrapping
+- Benefits of interface metaphors and problems
+	- makes learning new systems easier
+	- helps users understand the underlying conceptual model
+	- can be very innovative
+	- can increase accessibility to greater diversity of users
+- Possible downsides of metaphors
+	- may break conventional and cultural rules
+	- can constrain designers in how to conceptualize problem space
+	- conflicts with design principles
+	- force users to *only* understand system in terms of the metaphor
+	- designers can inadvertently use bad existing designs and transfer bad parts over
+	- limits designers' imagination
+- Why are enchanted objects such a popular metaphor for modern technologies? Can you explain why this might be a useful analogy? What's missing from the metaphor? (e.g., Magic wand 'Wiimote')
+	- This analogy can be useful because its form is similar to what may already be familiar to the user. However, the metaphor might not make sense to people from a different cultural background or may only work inside a specific context - "enchanted object" needs to be more specific for the use case
+- 3 steps for designing good metaphors
+	- understand functionality
+	- identify problem areas (for users) - choose metaphor to support this
+	- generate metaphors
+- Benefits of conceptualizing 
+	- Orientation: enables design teams to ask specific questions about how the conceptual model will be understood
+	- Open-minded: prevents design teams from becoming narrowly focused early on
+	- Common ground: allows design teams to establish a set of commonly agreed terms
+
+### Interaction Styles
+> These are metaphors for interaction, and they're good for different purposes. When choosing which style to use, determine the requirements and user needs, take into account constraints like budget, and it depends on suitability of technology for the activity/task
+- Types of Interactions
+	- Instructing
+	- Conversing
+	- Manipulating
+	- Exploring
+	- Proactive computing (computer acts based on assumed needs of the user (automatic filtering, software agents))
+- What is instructing?
+	- users instruct a system and tell it what to do
+	- benefit: supports quick and efficient interaction and good for repetitive kinds of actions on multiple objects
+- What is conversing?
+	- interactions that mimic the interaction of having a conversation (e.g., timetables, search engines, help systems)
+- Pros & cons of conversational model
+	- Pros
+		- allows users, especially novices and technophobes to interact with the system in a familiar way, makes them feel comfortable
+	- Cons
+		- misunderstandings can arise when the system doesn't know how to parse what the user says
+- What's manipulating?
+	- dragging, selecting opening, closing and zooming actions on virtual objects - exploits users' knowledge of how they move and manipulate in the physical world
+- Benefits of direct manipulation?
+	- Gives user feeling of being in direct control
+	- immediate feedback to users
+	- novices can learn basic functionality quickly
+	- experienced users can work quickly and do a range of tasks
+	- intermittent users can retain operational concepts
+- Disadvantages with direct manipulation
+	- taking metaphor of direct manipulation too literally
+	- not all tasks can be described by objects and not all actions can be done directly
+	- some tasks can be better achieved by delegating
+	- can waste screen estate
+	- can be slower
+	- mistakes can be hard to fix
+- What is exploring?
+	- involves users moving through virtual or physical environments
+	- physical environments with embedded sensor technologies
+- What is proactive computing?
+	- the system tries to predict the future (e.g., physical: sliding doors, digital: google, Facebook suggestions)
+	- can speed up processes and relieve the user from tasks, but can also distract the user and be error prone 

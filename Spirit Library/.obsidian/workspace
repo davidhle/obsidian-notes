@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiSe2020-21/HCI/HCI Exam Notes.md",
+            "file": "WiSe2020-21/Physiological Computing/Physiological Computing.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,22 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3c4471378024273a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WiSe2020-21/Physiological Computing/Physiological Computing.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c6574cbe5e380c25",
@@ -70,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2020-21/HCI/HCI Exam Notes.md",
+                "file": "WiSe2020-21/Physiological Computing/Physiological Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "WiSe2020-21/HCI/HCI Exam Notes.md",
-    "WiSe2020-21/VR Oral Exam Notes.md",
-    "WiSe2020-21/HCI/3 State Model.png",
-    "WiSe2020-21/Hierarchical Task Analysis.png",
-    "WiSe2020-21/HCI Exam Notes.md",
-    "Pasted image 20210213153528.png",
-    "Pasted image 20210213153333.png",
-    "WiSe2020-21/Untitled.md"
+    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
+    "WiSe2020-21/Physiological Computing/Lectures/Biofeedback.md",
+    "Biofeedback.md",
+    "WiSe2020-21/Physiological Computing.md",
+    "Emotions & Behavior.md",
+    "Eye Movements & Cognitive Pupillometry.md",
+    "Brain-Computer Interfaces (BCIs).md",
+    "Electroencephalography (EEG).md",
+    "Peripheral Nervous System.md",
+    "WiSe2020-21/VR/Virtual Reality.md"
   ]
 }
