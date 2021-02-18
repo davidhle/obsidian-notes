@@ -31,7 +31,7 @@ ___
     - Satisfaction
 		- How pleasant is it to use the design?
     - Help & Documentation (added later)
-- Schneiderman's 8 Golden Rules + 2 Principles
+- Shneiderman's 8 Golden Rules + 2 Principles (see [[Shneiderman's 8 Golden Rules]])
 	- Recognize user diversity (e.g., who are stakeholders and their key tasks)
 	- Consistency (internal/external, color coding, button placement, etc.)
 	- Provide shortcuts for experts

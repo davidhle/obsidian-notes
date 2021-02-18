@@ -12,6 +12,17 @@ ___
 ### 10: [[Modeling User Interaction]]
 ### 11, 12 & 13: [[Interface Types and Technologies]]  
   
+## Self Study
+___
+**Must Read**
+### 1: [[Usability 101 - Introduction to Usability]]  
+### 2: [[10 Heuristics Overview]]  
+**[Link List Heuristic Evaluation](https://www.nngroup.com/topic/heuristic-evaluation/) **(more details on each item on the sub-pages)
+### 3: [[Shneiderman's 8 Golden Rules]]  
+
+**Can Read**
+
+  
 ## Topics Covered in Assignments
 ___
 ### Assignment 1

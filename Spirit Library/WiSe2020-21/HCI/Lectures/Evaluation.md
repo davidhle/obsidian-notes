@@ -32,7 +32,7 @@ ___
     - Trivial problems are identified
     - Experts have biases, pet peeves, blind spots
     - Finding experts with domain expertise
-- Examples of heuristics
+- Examples of heuristics (see: [[10 Heuristics Overview]])
     - Visibility of system status
     - Match between system and the real world (system should use words, phrases and concepts familiar to the user)
     - User control and freedom (support undo and redo)

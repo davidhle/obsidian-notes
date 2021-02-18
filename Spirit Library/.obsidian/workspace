@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
+            "file": "WiSe2020-21/HCI/Self Study/Usability 101 - Introduction to Usability.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heuristic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md"
+                "file": "WiSe2020-21/HCI/Self Study/Usability 101 - Introduction to Usability.md"
               }
             }
           }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c6574cbe5e380c25",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
+                "file": "WiSe2020-21/HCI/Self Study/Usability 101 - Introduction to Usability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
-    "WiSe2020-21/HCI/Lectures/Modeling User Interaction.md",
-    "WiSe2020-21/HCI/Lectures/Usability & UX.md",
+    "Usability 101 - Introduction to Usability.md",
+    "WiSe2020-21/HCI/Lectures/Evaluation.md",
+    "10 Heuristics Overview.md",
+    "Shneiderman's 8 Golden Rules.md",
     "WiSe2020-21/HCI/HCI.md",
-    "WiSe2020-21/VR/Virtual Reality.md",
-    "WiSe2020-21/Physiological Computing/Lectures/Biofeedback.md",
-    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
-    "Biofeedback.md",
-    "WiSe2020-21/Physiological Computing.md",
-    "Emotions & Behavior.md"
+    "10 Usability Heuristics with examples.md",
+    "WiSe2020-21/HCI/Lectures/Usability & UX.md",
+    "Schneiderman's 8 Golden Rules.md",
+    "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
+    "WiSe2020-21/HCI/Lectures/Modeling User Interaction.md"
   ]
 }
