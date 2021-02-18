@@ -25,7 +25,7 @@ ___
 	- Methods
 		- sequences of operators that achieve a goal
 	- Selection rules
-		- rules that define when a suer emplys which method
+		- rules that define when a user employs which method
 - What is the 3 state model?
 	- A method that describes graphical input (i.e., mice, button presses, etc.)
 	- ![[3 State Model.png]]

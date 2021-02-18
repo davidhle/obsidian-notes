@@ -1,12 +1,50 @@
 # HCI Review
 #WiSe2020 
 ## Lectures
-[[Intro to HCI]]
-[[Usability & UCD Process]]
-[[Requirements Analysis]]
-[[Usability & UX]]
-[[Cognition & Design]]
-[[Early Design]]
-[[Evaluation]]
-[[Modeling User Interaction]]
-[[Interface Types and Technologies]]
+___
+### 1: [[Intro to HCI]]
+### 2: [[Usability & UCD Process]]
+### 3 & 4: [[Requirements Analysis]]
+### 5: [[Usability & UX]]
+### 6: [[Cognition & Design]]
+### 7: [[Early Design]]
+### 8 & 9: [[Evaluation]]
+### 10: [[Modeling User Interaction]]
+### 11, 12 & 13: [[Interface Types and Technologies]]  
+  
+## Topics Covered in Assignments
+___
+### Assignment 1
+Constraints, Affordances, Mappings
+- "labels don't count as constraints"
+
+### Assignment 2
+Environmental requirements, user requirements, system requirements
+- think of all user groups - with the geologists: who is teaching them how to use the device properly and who helps when something goes wrong
+
+User research methods: questionnaires, interviews, focus groups, etc.
+- Know pros and cons of methods and explain choice of questions if doing questionnaire
+
+User profiles
+- should give a sense of the user diversity
+
+### Assignment 3
+Empirical usability test, expert review
+- remember to describe the **setting**: the room from the perspective of the participant and the observer, equipment used
+
+Heuristic evaluation
+- describe course of action taken and **focus on weaknesses and errors** of the design
+
+Types of feedback: visual, auditory, tactile
+- "the shape of a product, button, or whatever could also bear haptic feedback"
+
+Storyboards
+
+Prototypes & User testing (think aloud walkthrough)
+- be sure to document of logistics of how user test is conducted
+
+### Assignment 4
+Difference between field studies and living lab
+
+KLM calculations
+- remember the system response time and the time moving from mouse to keyboard & vice versa

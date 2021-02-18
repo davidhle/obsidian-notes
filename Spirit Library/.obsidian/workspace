@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiSe2020-21/Physiological Computing/Physiological Computing.md",
+            "file": "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
             "mode": "source"
           }
         }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiSe2020-21/Physiological Computing/Physiological Computing.md"
+                "file": "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md"
               }
             }
           }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6574cbe5e380c25",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2020-21/Physiological Computing/Physiological Computing.md",
+                "file": "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
+    "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
+    "WiSe2020-21/HCI/Lectures/Modeling User Interaction.md",
+    "WiSe2020-21/HCI/Lectures/Usability & UX.md",
+    "WiSe2020-21/HCI/HCI.md",
+    "WiSe2020-21/VR/Virtual Reality.md",
     "WiSe2020-21/Physiological Computing/Lectures/Biofeedback.md",
+    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
     "Biofeedback.md",
     "WiSe2020-21/Physiological Computing.md",
-    "Emotions & Behavior.md",
-    "Eye Movements & Cognitive Pupillometry.md",
-    "Brain-Computer Interfaces (BCIs).md",
-    "Electroencephalography (EEG).md",
-    "Peripheral Nervous System.md",
-    "WiSe2020-21/VR/Virtual Reality.md"
+    "Emotions & Behavior.md"
   ]
 }
