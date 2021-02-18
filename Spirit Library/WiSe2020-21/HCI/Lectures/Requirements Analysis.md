@@ -26,7 +26,6 @@ ___
 		- Casual/infrequent: clear instructions, e.g., menu paths
 - What are usability requirements?
 	- Relate to the task and the users (e.g., learnability of system, effectiveness to complete task, safety/reduction of errors, memorability if system isn't used a lot, also fun and aesthetics - UX)
-- 
 
 ### User Diversity (User Profiles, Personas, Stakeholders)
 > User needs and preferences vary with age, gender, lifestyle, etc. (e.g., disability, pregnancy)
@@ -56,7 +55,7 @@ ___
 	- Secondary
 		- customers, airline management
 	- Tertiary
-		- competitors, civil aviation authorities, customers' travelling companions, airline shareholders
+		- competitors, civil aviation authorities, customers' traveling companions, airline shareholders
 	- Facilitating
 		- design team, IT staff
 > User profiles describe characteristics of types of users for a system, and personas capture a user profile for a key user type **inspired from actual data**
@@ -201,8 +200,6 @@ ___
 	- asks users to record date and time of events, location, information about event, log feelings, etc.
 
 ### Methods: closing remarks, mixing methods, considerations for data gathering, informed consent
-
-
 - Considerations for data gathering
 	- identify and involve stakeholders
 	- how to involve stakeholders (workshops, interviews, workplace studies, include into development team)

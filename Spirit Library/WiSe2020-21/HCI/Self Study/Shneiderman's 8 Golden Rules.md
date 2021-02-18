@@ -8,7 +8,7 @@ Ben Shneiderman (born August 21, 1947) is an American computer scientist and pro
 -   **Enable frequent users to use shortcuts.** With increased use comes the demand for quicker methods of completing tasks. For example, both Windows and Mac provide users with keyboard shortcuts for copying and pasting, so as the user becomes more experienced, they can navigate and operate the user interface more quickly and effortlessly.
 -   **Offer informative feedback.** The user should know where they are at and what is going on at all times. For every action there should be appropriate, human-readable feedback within a reasonable amount of time. A good example of applying this would be to indicate to the user where they are at in the process when working through a multi-page questionnaire. A bad example we often see is when an error message shows an error-code instead of a human-readable and meaningful message.  
       
-    ![](https://public-media.interaction-design.org/images/uploads/04c970389df324a77a7c3afc6c818ed6.jpg)
+   ![[WMP Error.png]]
 _Author/Copyright holder: Google, Inc. Copyright terms and licence: Fair Use_
 
 _The Windows Media Player designers should have remembered Ben Shneiderman’s 3rd golden rule: Offer informative feedback. Poorly designed error messages often show an error-code that does not mean anything to the user. As a good designer you should always seek to give human-readable and meaningful feedback._

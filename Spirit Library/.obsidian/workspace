@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiSe2020-21/HCI/Lectures/Intro to HCI.md",
-            "mode": "source"
+            "file": "WiSe2020-21/HCI/Lectures/Early Design.md",
+            "mode": "preview"
           }
         }
       }
@@ -33,34 +33,24 @@
               "type": "file-explorer",
               "state": {}
             }
-          },
-          {
-            "id": "f7f82929909e171a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "feedback",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "40099ce4a3832c21",
+        "type": "tabs",
+        "children": [
           {
             "id": "3c4471378024273a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiSe2020-21/HCI/Lectures/Intro to HCI.md"
+                "file": "WiSe2020-21/HCI/Lectures/Early Design.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,6 +61,27 @@
     "type": "split",
     "children": [
       {
+        "id": "3088451c087d21d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7f82929909e171a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "direct",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "a6c5de704b3eeec4",
         "type": "tabs",
         "children": [
@@ -80,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2020-21/HCI/Lectures/Intro to HCI.md",
+                "file": "WiSe2020-21/HCI/Lectures/Early Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +104,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "WiSe2020-21/HCI/Lectures/Intro to HCI.md",
+    "WiSe2020-21/HCI/Lectures/Early Design.md",
+    "WiSe2020-21/HCI/Lectures/Cognition & Design.md",
+    "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
     "WiSe2020-21/HCI/HCI.md",
-    "WiSe2020-21/HCI/Lectures/Usability & UCD Process.md",
-    "WiSe2020-21/HCI/Self Study/Shneiderman's 8 Golden Rules.md",
-    "WiSe2020-21/HCI/Self Study/10 Heuristics Overview.md",
     "WiSe2020-21/HCI/Self Study/Usability 101 - Introduction to Usability.md",
     "WiSe2020-21/HCI/Lectures/Requirements Analysis.md",
-    "WiSe2020-21/HCI/Lectures/Early Design.md",
-    "Usability 101 - Introduction to Usability.md",
-    "WiSe2020-21/HCI/Lectures/Evaluation.md"
+    "WiSe2020-21/HCI/Lectures/Usability & UX.md",
+    "WiSe2020-21/HCI/Self Study/Shneiderman's 8 Golden Rules.md",
+    "WiSe2020-21/HCI/Lectures/Modeling User Interaction.md",
+    "WiSe2020-21/HCI/Lectures/Intro to HCI.md"
   ]
 }
