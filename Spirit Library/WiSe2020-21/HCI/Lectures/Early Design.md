@@ -15,7 +15,7 @@ ___
 
 ### Users and Use Contexts - Personas and Scenarios
 *Focuses on users and the use situation*
-- What are personas?
+- What are personas? (see: [[Requirements Analysis#User Diversity User Profiles Personas Stakeholders]])
 	- Textual descriptions/representations of archetypical or extreme fictional users
 		- Grounded in background info/data
 		- Usually done in a set
