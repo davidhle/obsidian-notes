@@ -17,8 +17,8 @@ Know about the main functions, about the role of neurons, about the "major" part
 Possible exam questions:
 -   Which components are part of the central nervous system?
 -   Which part of the cerebral cortex processes mainly visual information?
--   What is the role of the Amygdala?
-    -   Attaches emotions to our perceptions
+	-   What is the role of the Amygdala?
+			-   Attaches emotions to our perceptions
 
 ### 2b: [[Peripheral Nervous System]]
 Know about the classification of the functional divisions (preferably scheme 2), about the difference between sympathetic and parasympathetic activation, about the concept of homeostasis and how the mechanisms of thermoregulation.
@@ -57,7 +57,7 @@ Possible exam questions:
 -   Include the „sound of an angry barking dog“ into the arousal/valence diagram
 
 ### 6: [[Biofeedback]]
-Know about the basic principle, especially in association with „stress-tests“ during biofeedback therapy. Also, know about the concept of „interoceptive awareness and get an impression of exemplary BCI scenarios
+				Know about the basic principle, especially in association with „stress-tests“ during biofeedback therapy. Also, know about the concept of „interoceptive awareness and get an impression of exemplary BCI scenarios
 
-Possible exam questions:
--   Illustrate a BCI scenario for relaxation featuring SCR
+				Possible exam questions:
+				-   Illustrate a BCI scenario for relaxation featuring SCR

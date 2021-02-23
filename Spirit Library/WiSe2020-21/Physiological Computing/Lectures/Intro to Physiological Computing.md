@@ -1,4 +1,4 @@
-		# Intro to Physiological Computing
+# Intro to Physiological Computing
 > Physiological computing systems can be divided into 2 categories:
 ## 1. Mental Status Determination
 > Implicit information, unintentional, activity arises spontaneously

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md",
+            "file": "WiSe2020-21/Physiological Computing/Lectures/Peripheral Nervous System.md",
             "mode": "source"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "direct",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "40099ce4a3832c21",
@@ -63,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md"
+                "file": "WiSe2020-21/Physiological Computing/Lectures/Peripheral Nervous System.md"
               }
             }
           },
@@ -73,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md",
+                "file": "WiSe2020-21/Physiological Computing/Lectures/Peripheral Nervous System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6574cbe5e380c25",
@@ -97,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "WiSe2020-21/Physiological Computing/Lectures/Peripheral Nervous System.md",
+    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
+    "WiSe2020-21/Physiological Computing/Lectures/Central Nervous System.md",
+    "WiSe2020-21/Physiological Computing/Lectures/Electroencephalography (EEG).md",
+    "WiSe2020-21/Physiological Computing/Lectures/Intro to Physiological Computing.md",
     "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md",
+    "WiSe2020-21/Physiological Computing/Lectures/Biofeedback.md",
     "SCL SCR Problem.png",
     "Dimensional Approach.png",
-    "Pasted image 20210223021054.png",
-    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
-    "WiSe2020-21/Physiological Computing/Lectures/Electroencephalography (EEG).md",
-    "WiSe2020-21/Physiological Computing/Lectures/Brain-Computer Interfaces (BCIs).md",
-    "Synaptic Transmission Diagram.png",
-    "WiSe2020-21/Physiological Computing/Lectures/Peripheral Nervous System.md",
-    "WiSe2020-21/Physiological Computing/Lectures/Central Nervous System.md"
+    "Pasted image 20210223021054.png"
   ]
 }

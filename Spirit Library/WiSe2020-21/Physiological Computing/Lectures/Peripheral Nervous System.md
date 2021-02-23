@@ -27,6 +27,6 @@
 	- shivering: involuntary contraction & relaxation of muscles
 	- releases energy to be released as heat and warm us up
 - Explain the purpose/mechanisms of vasoconstriction on a cold day outside
-	- Our blood vessels will transport blood to the skin and dilate (**vasodilation**) to carry out thermoregulation and maintain homeostasis
+	- Our blood vessels will transport blood to the skin and constrict (**vasoconstriction**) to carry out thermoregulation and maintain homeostasis
 - How do Inuit people maintain homeostasis?
 - their nervous system **fluctuates between vasoconstriction and vasodilation** to conserve body heat and provide continued blood flow to prevent frostbite
