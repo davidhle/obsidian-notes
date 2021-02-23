@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiSe2020-21/HCI/Lectures/Early Design.md",
-            "mode": "preview"
+            "file": "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md",
+            "mode": "source"
           }
         }
       }
@@ -25,6 +25,7 @@
       {
         "id": "6944daa027d604ed",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "feba10a1346c8693",
@@ -33,37 +34,7 @@
               "type": "file-explorer",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "40099ce4a3832c21",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c4471378024273a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "WiSe2020-21/HCI/Lectures/Early Design.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "c6574cbe5e380c25",
-    "type": "split",
-    "children": [
-      {
-        "id": "3088451c087d21d2",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "f7f82929909e171a",
             "type": "leaf",
@@ -82,16 +53,27 @@
         ]
       },
       {
-        "id": "a6c5de704b3eeec4",
+        "id": "40099ce4a3832c21",
         "type": "tabs",
+        "dimension": 50,
         "children": [
+          {
+            "id": "3c4471378024273a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md"
+              }
+            }
+          },
           {
             "id": "a747c5f06ece3fed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2020-21/HCI/Lectures/Early Design.md",
+                "file": "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,16 +88,24 @@
     "direction": "horizontal",
     "width": 300
   },
+  "right": {
+    "id": "c6574cbe5e380c25",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
   "lastOpenFiles": [
-    "WiSe2020-21/HCI/Lectures/Early Design.md",
-    "WiSe2020-21/HCI/Lectures/Cognition & Design.md",
-    "WiSe2020-21/HCI/Lectures/Interface Types and Technologies.md",
-    "WiSe2020-21/HCI/HCI.md",
-    "WiSe2020-21/HCI/Self Study/Usability 101 - Introduction to Usability.md",
-    "WiSe2020-21/HCI/Lectures/Requirements Analysis.md",
-    "WiSe2020-21/HCI/Lectures/Usability & UX.md",
-    "WiSe2020-21/HCI/Self Study/Shneiderman's 8 Golden Rules.md",
-    "WiSe2020-21/HCI/Lectures/Modeling User Interaction.md",
-    "WiSe2020-21/HCI/Lectures/Intro to HCI.md"
+    "WiSe2020-21/Physiological Computing/Lectures/Emotions & Behavior.md",
+    "SCL SCR Problem.png",
+    "Dimensional Approach.png",
+    "Pasted image 20210223021054.png",
+    "WiSe2020-21/Physiological Computing/Physiological Computing.md",
+    "WiSe2020-21/Physiological Computing/Lectures/Electroencephalography (EEG).md",
+    "WiSe2020-21/Physiological Computing/Lectures/Brain-Computer Interfaces (BCIs).md",
+    "Synaptic Transmission Diagram.png",
+    "WiSe2020-21/Physiological Computing/Lectures/Peripheral Nervous System.md",
+    "WiSe2020-21/Physiological Computing/Lectures/Central Nervous System.md"
   ]
 }

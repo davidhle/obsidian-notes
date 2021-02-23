@@ -9,9 +9,9 @@
 
 -   Know about the depicted differences, about the biocybernetic loop and the associated requirements (validity, reliability)
 -   Read the provided pdf "Physiological computing"
-Possible exam question: What is the difference between implicit and explicit information in physiological computing systems?
+			Possible exam question: What is the difference between implicit and explicit information in physiological computing systems?
 
-### 2a: [[Central Nervous System]]
+	### 2a: [[Central Nervous System]]
 Know about the main functions, about the role of neurons, about the "major" parts of the brain, and their functional role (brain areas we talked about in more detail), especially about the role of the cerebral cortex and its areas. Also, know about differences between voluntary movements and the mechanisms of reflex arcs on spinal level
 
 Possible exam questions:
@@ -32,7 +32,7 @@ Know about the mechanisms of the EEG origin (post-synaptic potentials) and the s
 
 Possible exam questions:
 -   What kind of EEG-rhythm is associated with relaxed wakefulness?
--   Indicate the P300 in this illustration and name one influencing factor htat shapes the amplitude?
+-   Indicate the P300 in this illustration and name one influencing factor that shapes the amplitude?
 
 ### 3b: [[Brain-Computer Interfaces (BCIs)]]
 Know about the difference between synchronous and asynchronous approaches, about the advantages and disadvantages of low frequency-based BCIs and about the mechanisms of action in P300-based BCIs
