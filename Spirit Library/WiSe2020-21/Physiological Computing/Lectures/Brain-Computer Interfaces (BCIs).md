@@ -14,7 +14,7 @@
 ## Synchronous BCIs: SSVEP-based systems
 **Steady State Visual Evoked Potential**
 - Explain the SSVEP-based BCI
-	- 
+	- When looking at a flickering source, neurons (occipital) will adapt to that rhythm and can be detected by an EEG
 - SSVEP Diagram
 	- ![[SSVEP Diagram.png]]
 - SSVEP Frequency Regions

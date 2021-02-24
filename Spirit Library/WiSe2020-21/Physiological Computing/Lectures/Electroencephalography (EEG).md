@@ -1,10 +1,7 @@
 # Electroencephalography (EEG)
 Know about the mechanisms of the EEG origin (post-synaptic potentials) and the suggested role of the thalamus; about the various spontaneous rhythms and the principle of the „alpha\-blockade“. Also, inform yourself about the event-related potentials and the influences that shape the P300 component
 
-- What kind of EEG-rhythm is associated with relaxed wakefulness?
 - Indicate the P300 in this illustration and name one influencing factor that shapes the amplitude
-- What is the connection of oscillations to the brain?
-- How are electrodes placed on the scalp (what system)?
 - What influences the P300?
 - Can you think of an experiment to induce a P300?
 
@@ -43,6 +40,8 @@ Know about the mechanisms of the EEG origin (post-synaptic potentials) and the s
 	- through scalp electrodes which are attached using a conductive gel and attached to individual wires
 
 ### 10-20 system
+- How are electrodes placed on the scalp (what system)?
+	- the 10-20 system
 - What does the 10-20 system refer to?
 	- The system of electrode placement: the distances between electrodes are either 10% or 20% of the total front - back or right - left distance
 Each electrode placement site has a letter denoting which area of the brain it's measuring: frontal, central, parietal, occipital
@@ -52,13 +51,29 @@ Each electrode placement site has a letter denoting which area of the brain it's
 ### Ground Electrodes and Referencing
 
 ### EEG-graphs
-
+- An EEG graph displays the voltage on the vertical domain and the time on the horizontal domain
+	- ![[Pasted image 20210223185833.png]]
+- EEGs are often explored as a biomarker of epileptic seizures because of they're great sensitivity
+	- Epileptic seizures are caused by disturbed brain activity which means that the normal electrophysiological activity of the brain is suddenly interrupted and changes
 
 ## Cognitive Electrophysiology: What can the EEG tell us?
- 
+**Relevant features**
+- Spectral features
+	- oscillatory activity in specific frequency ranges as well as cross-frequency couplings
+- Temporal featuers
+	- event-related changes, phase resets
 
 ### Oscillatory EEG activity
- 
+> Perceptual, cognitive, motor, and emotional processes are tightly linked with specific patterns of neural oscillations
+- What is a neural oscillation
+	- a reference to a collection of phenomena
+- What is the connection of oscillations to the brain?
+	- they can provide insights into the computational principles as well as the temporal precisions and limitations of the mechanisms that underly cognitive processing
+- What is the role of the thalamus?
+	- when we close our eyes the thalamus sends impulse packets with about 10 Hz that create oscillatory changes in the EEG activity
+	- when eyes are open, the thalamus sends a fast pulse train that can be recorded as a beta activity
+- What kind of EEG-rhythm is associated with relaxed wakefulness?
+	- Alpha oscillations
 
 ### Event-related potentials (ERP)
 - What are ERPs?

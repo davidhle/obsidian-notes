@@ -9,7 +9,7 @@ ___
 	- bodily responses act as somatic markers that influence cognition and modulate behavior
 	- assumes during emotional processing, frontal brain areas are activated and this activation ("marker") represents a specific bodily or somatic state
 	- those representation are labeled: (un)pleasant
-	- the representation are activated (without us knowing) during reaction/decision making and provide us with "preliminary" decisions and "push" decisions into a specific deirection
+	- the representation are activated (without us knowing) during reaction/decision making and provide us with "preliminary" decisions and "push" decisions into a specific direction
 ### Three components of an emotion
 > Physiological measures determine the functional consequences of sympathetic and parasympathetic activation changes
 - What are the three components of an emotion?
